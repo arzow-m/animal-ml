@@ -1,4 +1,4 @@
-# 🐾 Animal Classifier Using K-Nearest Neighbors (KNN)
+# 🐾 Animal Classifier Using ML
 
 This project processes structured animal data from `.txt` and `.csv` files, extracting relevant details such as animal names, binary features, and class labels. It implements a K-Nearest Neighbors (KNN) classification system to categorize animal species based on feature similarity.
 
