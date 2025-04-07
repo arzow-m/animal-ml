@@ -17,10 +17,10 @@ The program supports multiple distance metrics — **Euclidean**, **Hamming**, a
 
 ## Core Functionality
 
-- 📥 **Data Processing**: Reads and parses animal data from files.
-- 📏 **Distance Calculations**: Computes Euclidean, Hamming, and Jaccard distances between feature vectors.
-- 🔍 **KNN Classification**: Finds `k` nearest neighbors and predicts a class based on majority voting.
-- 📊 **Accuracy Evaluation**: Tests model performance using labeled test data.
+- **Data Processing**: Reads and parses animal data from files.
+- **Distance Calculations**: Computes Euclidean, Hamming, and Jaccard distances between feature vectors.
+- **KNN Classification**: Finds `k` nearest neighbors and predicts a class based on majority voting.
+- **Accuracy Evaluation**: Tests model performance using labeled test data.
 
 ---
 
